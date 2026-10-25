@@ -1,0 +1,10 @@
+{
+  "name": "RideSeat",
+  "short_name": "RideSeat",
+  "description": "Book a seat on your daily ride",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#EDF2F0",
+  "theme_color": "#0B6E5C",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
